@@ -2,7 +2,7 @@
 
 This repository provides a step-by-step guide on **building an AI-powered content planner** using [CrewAI](https://github.com/crewAI/crewai) and [Groq's Llama 3](https://groq.com/) for inference.  
 
-## ** Features**
+## **Features**
 - AI-powered **Content Planner**  
 - Uses **CrewAI** to define AI Agents  
 - Leverages **Groq’s Llama 3 (70B)** for fast inference  
@@ -10,7 +10,7 @@ This repository provides a step-by-step guide on **building an AI-powered conten
 
 ---
 
-## ** Installation**
+## **Installation**
 
 Run the following commands to install the required dependencies:  
 
