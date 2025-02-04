@@ -23,7 +23,7 @@ Run the following commands to install the required dependencies:
 ## **Output Example**
 When executed, the AI agent generates a content plan like this:
 ```bash
-
+'
 📌 Content Plan:
  **Content Plan Document:**
 
@@ -49,7 +49,7 @@ I. Introduction
 
 * Brief overview of AI and its applications in cybersecurity
 * Importance of understanding the impact of AI on cybersecurity
-* Thesis statement: AI is transforming the cybersecurity landscape, and it''s essential to understand its benefits and risks to stay ahead of cyber threats.
+* Thesis statement: AI is transforming the cybersecurity landscape, and it's essential to understand its benefits and risks to stay ahead of cyber threats.
 
 II. The Benefits of AI in Cybersecurity
 
@@ -107,7 +107,7 @@ VI. Conclusion
 * "AI-Powered Cybersecurity: A Survey of the Current Landscape" by the SANS Institute
 * "The Ethics of AI in Cybersecurity" by the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems
 
-I hope this comprehensive content plan document meets the expected criteria and provides a solid foundation for the Content Writer to create an engaging and informative article on the impact of artificial intelligence on cybersecurity.
+I hope this comprehensive content plan document meets the expected criteria and provides a solid foundation for the Content Writer to create an engaging and informative article on the impact of artificial intelligence on cybersecurity.'
 ```
 ## Read the Full Blog
 
