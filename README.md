@@ -23,7 +23,6 @@ Run the following commands to install the required dependencies:
 ## **Output Example**
 When executed, the AI agent generates a content plan like this:
 ```plaintext
-'
 📌 Content Plan:
  **Content Plan Document:**
 
