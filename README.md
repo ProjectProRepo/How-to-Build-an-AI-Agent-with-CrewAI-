@@ -49,7 +49,7 @@ I. Introduction
 
 * Brief overview of AI and its applications in cybersecurity
 * Importance of understanding the impact of AI on cybersecurity
-* Thesis statement: AI is transforming the cybersecurity landscape, and it's essential to understand its benefits and risks to stay ahead of cyber threats.
+* Thesis statement: AI is transforming the cybersecurity landscape, and it''s essential to understand its benefits and risks to stay ahead of cyber threats.
 
 II. The Benefits of AI in Cybersecurity
 
