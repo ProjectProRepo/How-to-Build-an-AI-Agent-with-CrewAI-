@@ -3,10 +3,10 @@
 This repository provides a step-by-step guide on **building an AI-powered content planner** using [CrewAI](https://github.com/crewAI/crewai) and [Groq's Llama 3](https://groq.com/) for inference.  
 
 ## **Features**
--Use **CrewAI** to create an AI-powered **Content Planner**  
-- Leverage **Groq’s Llama 3 (70B)** for lightning-fast inference  
-- Define AI **Agents, Tasks, and Crews** to automate content planning  
-- Generate **structured blog outlines** with SEO optimization  
+- Usea **CrewAI** to create an AI-powered **Content Planner**  
+- Leveragea **Groq’s Llama 3 (70B)** for lightning-fast inference  
+- Definea AI **Agents, Tasks, and Crews** to automate content planning  
+- Generatea **structured blog outlines** with SEO optimization  
 
 ---
 
