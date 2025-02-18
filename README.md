@@ -109,7 +109,7 @@ VI. Conclusion
 I hope this comprehensive content plan document meets the expected criteria and provides a solid foundation for the Content Writer to create an engaging and informative article on the impact of artificial intelligence on cybersecurity.
 ```
 ## Read the Full Blog
-
+For a detailed explanation of the code, visit [Build an AI Agent with CrewAI – ProjectPro](https://www.projectpro.io/article/build-an-ai-agent-with-crewai/1095)
 
 ## Next Steps
 -Modify the agent’s role for different use cases (e.g., research, analysis, creative writing).
